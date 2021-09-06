@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux, music production and algorithmic art
 - 🌱 I’m currently learning lilypond, supercollider and emacs
 - 💞️ I’m looking for other lilypond and supercollider users to share their experiences
-- 📫 You can reach me here: info@klangstellwerk.de
+- 📫 You can reach me here: contact@kuhnert.xyz
 
 <!---
 niklasbuhler/niklasbuhler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
